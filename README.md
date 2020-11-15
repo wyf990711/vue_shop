@@ -1,24 +1,3 @@
-# vue_shop
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这个项目是在学习vue的时候跟着视频做的前端，自己又改进了一些界面和功能，
+后端是使用的API接口，通过api接口的调用，来完成对数据从操作，
+前端的显示界面使用的是element-ui库来渲染的，界面相对来说比较美观，这个库有很多现成的东西来让我们使用，但是自己要根据自己的需求来进行更改。
